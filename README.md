@@ -1,4 +1,5 @@
-# React + Vite
+# Project 1 - Brand Page
+in React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
